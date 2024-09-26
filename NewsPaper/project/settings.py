@@ -161,7 +161,7 @@ ACCOUNT_FORMS = {'signup': 'sign.models.BasicSignupForm'}
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_PORT = 465
 EMAIL_HOST_USER = 'Newspaper.Project'
-EMAIL_HOST_PASSWORD = 'vhrhpezcgjqncbqv'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_SSL = True
 DEFAULT_FROM_EMAIL = 'Newspaper.Project@yandex.ru'
 
